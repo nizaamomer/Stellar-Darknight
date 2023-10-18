@@ -18,10 +18,10 @@ To install Stella Darknight, follow these simple steps:
 
 Here are some previews of Stella Darknight for different programming languages:
 
-- ![JavaScript](js.png)
-- ![JSON](json.png)
-- ![HTML](html.png)
-- ![PHP](php.png)
+- JavaScript ![JavaScript](js.png)
+- JSON ![JSON](json.png)
+- HTML![HTML](html.png)
+- PHP ![PHP](php.png)
 
 Enjoy coding with Stella Darknight, and happy coding!
 
