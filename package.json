@@ -2,7 +2,7 @@
   "name": "stellar-darknight",
   "displayName": "Stellar Darknight",
   "description": "A VS Code dark theme with a stellar touch. I'm sure you'll like it :)",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publisher": "nizaamomer",
   "icon": "images/interstellar.jpg",
   "engines": {
