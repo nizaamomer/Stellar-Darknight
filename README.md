@@ -14,21 +14,6 @@ To install Stella Darknight, follow these simple steps:
 4. Click **Install** to install the theme.
 5. Once installed, select **Stella Darknight** as your active color theme by going to `File > Preferences > Color Theme` or pressing `Ctrl+K Ctrl+T`.
 
-## Preview
-
-Here are some previews of Stella Darknight for different programming languages:
-
-- JavaScript
-  ![JavaScript](images/js.png)
-- JSON
-  ![JSON](images/json.png)
-- HTML
-  ![HTML](images/html.png)
-- PHP
-  ![PHP](images/php.png)
-- Vue
-  ![vue](images/vue.png)
-
 
 ## Enjoying Stella Darknight?
 
