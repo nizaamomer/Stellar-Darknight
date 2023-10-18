@@ -4,7 +4,7 @@
   "description": "A VS Code dark theme with a stellar touch. I'm sure you'll like it :)",
   "version": "0.2.0",
   "publisher": "nizaamomer",
-  "icon": "logo.jpg",
+  "icon": "images/logo.jpg",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -14,6 +14,9 @@
   "keywords": [
     "VS Code theme",
     "dark theme",
+    "theme",
+    "night",
+    "dark",
     "dark night",
     "Stellar",
     "Darknight",
