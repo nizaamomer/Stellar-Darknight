@@ -1,0 +1,39 @@
+{
+  "name": "stellar-darknight",
+  "displayName": "Stellar Darknight",
+  "description": "A VS Code dark theme with a stellar touch. I'm sure you'll like it :)",
+  "version": "0.1.0",
+  "publisher": "nizaamomer",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "VS Code theme",
+    "dark theme",
+    "dark night",
+    "Stellar",
+    "Darknight",
+    "NizamOmer",
+    "nizaamomer",
+    "nizam",
+    "nizaam",
+    "Nizam",
+    "Stellar Darktheme",
+    "Stellar Darknight"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nizaamomer/Stellar-Darknight"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stellar Darknight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stellar Darknight-color-theme.json"
+      }
+    ]
+  }
+
+}
