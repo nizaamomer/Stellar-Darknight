@@ -1,17 +1,27 @@
-# stellar-darknight README
+# Stella Darknight - Visual Studio Code Theme
 
-## Working with Markdown
+![Stella Darknight](Screenshot.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Stella Darknight is a dark-themed, highly customizable Visual Studio Code theme designed to provide a comfortable and stylish coding environment. With a focus on readability and aesthetics, Stella Darknight is perfect for those who prefer to code in the dark.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+To install Stella Darknight, follow these simple steps:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Visual Studio Code**.
+2. Go to the **Extensions** view by clicking on the square icon in the sidebar or using `Ctrl+Shift+X`.
+3. Search for `Stella Darknight`.
+4. Click **Install** to install the theme.
+5. Once installed, select **Stella Darknight** as your active color theme by going to `File > Preferences > Color Theme` or pressing `Ctrl+K Ctrl+T`.
 
-**Enjoy!**
-# Stellar-Darknight
+## Preview
+
+Here are some previews of Stella Darknight for different programming languages:
+
+- ![JavaScript](js.png)
+- ![JSON](json.png)
+- ![HTML](html.png)
+- ![PHP](php.png)
+
+Enjoy coding with Stella Darknight, and happy coding!
+
